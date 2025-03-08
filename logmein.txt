@@ -1,0 +1,43 @@
+https://www.logmein.com
+tye@webdevium.com
+zpt2A8T4/yJn3uY
+
+Azure SQL Managed Instance
+TyeF
+Q`no0pT{PclE1Q$
+harrisventures.bcd27671584e.database.windows.net
+
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\
+
+Web Kiosk Server (SQLJKM, remote 12, sql)
+TyeFredrickson
+7qI!F=@(kxZg)n3
+tye.fredrickson
+`8|R*i6S@!iV/3aF</c
+
+
+Web Kiosk Server
+TyeFredrickson
+6%HnL7$2v
+
+Web Kiosk Test Server (webdevtest)
+TyeFredrickson
+\APG7r6p-|1&Sd<F+l.<
+
+
+
+tye.fredrickson
+`8|R*i6S@!iV/3aF</c
+
+https://app.staffzone.com/
+
+
+1. Everify Audit 2019-CentralizedDB
+2. National Customer Lookup
+3. RateAdjust
+4. WOTCExport
+
+
+BACKUP DATABASE [c412il_clockdb]
+TO DISK = 'D:\develop\412backup\412.bak'
+WITH FORMAT, MEDIANAME = 'SQLServerBackups', NAME = 'Full Backup of MyDatabase';

@@ -1,0 +1,188 @@
+---------------
+https://www.logmein.com
+tye@webdevium.com
+6wqi:EKJh2-LjKG
+
+---------------------
+Azure SQL Managed Instance
+TyeF
+Q`no0pT{PclE1Q$
+harrisventures.bcd27671584e.database.windows.net
+harrisventures.public.bcd27671584e.database.windows.net,3342
+
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\
+
+-----------------------------
+Web Kiosk Server (SQLJKM, remote 12, sql)
+TyeFredrickson
+7qI!F=@(kxZg)n3
+tye.fredrickson
+`8|R*i6S@!iV/3aF</
+
+===============
+Web Kiosk Server
+TyeFredrickson
+7qI!F=@(kxZg)n3
+6%HnL7$2
+
+------------------
+KioskWeb1 server
+administrator
+6%HnL7$2
+
+-------------------------
+Kiosk login for testing
+Michael.selva or mselva@staffzone.com
+dNQDWcZ0[ru0tSD
+
+
+mselva@staffzone.com
+dNQDWcZ0[ru0tSD
+
+================
+
+Web Kiosk Test Server (webdevtest)
+TyeFredrickson
+\APG7r6p-|1&Sd<F+l.<
+
+
+
+tye.fredrickson
+`8|R*i6S@!iV/3aF</c
+
+==========Github======
+https://github.com/Staff-Zone
+11:37
+tyefred210@gmail.com
+amd3efabt7crq27!
+
+7#%$Adkea@9&2
+
+
+
+==============
+
++1 7654050470 gs tg
+live:.cid.df0c21756843ecff
+hidevel m tg
+ dmytro@webdevium.com
+167.88.167.199
+Administrator
+qWw6tvn3rj63od
+
+manage@webdevium.com
+nu&e3UG8dtg3^cC
+9:06
+leatherfurniture.com/admin
+
+SS 143-65-9246 pin 782191
+678-722-150
+
+Pin 750945
+I just grabbed it from the incomplete queue in 21.
+You can use 678722150 if you need a test SS for a pin or anything else. Please let me know what else you need.
+Thanks,
+
+
+tye@digitalwheelhouse.com
+
+dmytro@webdevium.com
+==============
+manage@webdevium.com ---- for share gitgub
+
+https://app.staffzone.com/
+
+
+1. Everify Audit 2019-CentralizedDB
+2. National Customer Lookup
+3. RateAdjust
+4. WOTCExport
+
+201369741
+Lindenwood147$
+
+BACKUP DATABASE [EverifyAudit_SZ1]
+TO DISK = 'D:\EverifyAudit_SZ1.bak'
+WITH FORMAT, MEDIANAME = 'SQLServerBackups', NAME = 'Full Backup of MyDatabase';
+
+
+
+https://clients.hostwinds.com/clientarea.php
+tfredrickson@wytecintl.com
+rQE6hS2u$vWvV4@d
+7:17
+this is hosting info
+
+
+wytecintl.com/wp-admin
+tfredrickson@wytecintl.com
+TF*wyt@21
+
+
+git-email: manage@webdevium.com
+
+LF Project
+10.10
+Automatically select color.
+product-set.js -> 255, 258~262
+
+
+
+There is a program Clarke wrote that I need help with. It runs a few crystal reports that the data gets pulled from the SZWageHistory table. I think it just needs to be recompiled with a new version to work on the AVD windows 11 machine.
+Eric has shared the source code. It will need to connect to the Azure SQL managed instance.
+The program and reports can be found on the AVD-Branch-0 machine you accessed for reconnecting the 4 programs.
+C:\HVI\WageHistoryReports\ReportDriver.exe
+Below is the error when I click a button in the program.
+************** Exception Text **************
+System.IO.FileNotFoundException: Could not load file or assembly 'CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' or one of its dependencies. The system cannot find the file specified.
+File name: 'CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304'
+  at ReportDriver.Form1.InitializeComponent()
+  at ReportDriver.Form2.Button8_Click(Object sender, EventArgs e)
+  at System.Windows.Forms.Control.OnClick(EventArgs e)
+  at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+  at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+  at System.Windows.Forms.Control.WndProc(Message& m)
+  at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+  at System.Windows.Forms.Button.WndProc(Message& m)
+  at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+The button used was Last4Lookup_SQL
+The Report.ini file points to the locations for the buttons.
+Please let me know if you need any more information, or if you need screenshots of it currently working.
+
+
+
+<add name="DBCS_SZEmpAppConsolidated" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=SZEmpAppConsolidated;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+<add name="DBCS_SQLJKM1_TPCtrlSQL" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=tpctrlSQL;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+============= app==
+<add name="ADCS_Users" connectionString="Data Source=192.168.100.170;Initial Catalog='CN=Users,DC=thestaffzone,DC=net'" />
+    <add name="ADCS_AzureADSync" connectionString="Data Source=192.168.100.170;Initial Catalog='OU=AzureADSync,DC=thestaffzone,DC=net'" />
+
+    <add name="DBCS_SZEmpAppConsolidated" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=SZEmpAppConsolidated;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;MultipleActiveResultSets=True;" 
+     providerName="System.Data.SqlClient" />
+     
+    <add name="DBCS_SZEmpAppControl" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=SZEmpAppControl;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+<add name="DBCS_SQLJKM1_TempsSZ1SQL" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=TEMPSSZ1SQL;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+<add name="DBCS_SQLJKM1_Maintain" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=Maintain;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+<add name="DBCS_SQLJKM1_TPCtrlSQL" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=tpctrlSQL;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
+
+<add name="DBCS_SQLJKM1_WOTCAudit_SZ1" 
+     connectionString="Server=tcp:harrisventures.bcd27671584e.database.windows.net,1433;Database=WOTCAudit_SZ1;User ID=TyeF;Password=Q`no0pT{PclE1Q$;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;App=EntityFramework" 
+     providerName="System.Data.SqlClient" />
